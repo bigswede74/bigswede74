@@ -1,4 +1,8 @@
-### Hi there 👋
+👋 Hi I'm a software engineer @scientificgames in the gaming division.
+
+🌱 **I’m currently learning ...**
+* Python
+* ML
 
 <!--
 **bigswede74/bigswede74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
