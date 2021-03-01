@@ -1,8 +1,10 @@
 👋 Hi I'm a software engineer @scientificgames in the gaming division.
 
-🌱 **I’m currently learning ...**
-* Python
-* ML
+My software background is mainly in building C#/.NET services and soutions in the gaming industry.
+
+- 🔭 I’m currently working on ...
+* Deep Learning with PyTorch based frameworks
+* Amazon Web Services cloud platform
 
 <!--
 **bigswede74/bigswede74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
