@@ -2,7 +2,7 @@
 
 My software background is mainly in building C#/.NET services and soutions in the gaming industry.
 
-- 🔭 I’m currently working on ...
+🔭 I’m currently working on
 * Deep Learning with PyTorch based frameworks
 * Amazon Web Services cloud platform
 
